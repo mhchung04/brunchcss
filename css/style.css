@@ -1,0 +1,92 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+ ::-moz-selection { /* Code for Firefox */
+    color: rgb(255,255,255) ;
+    background: rgba(185, 206, 150, 0.7) ;
+}
+
+::selection {
+    color: rgb(255,255,255) ;
+    background: rgba(185, 206, 150, 0.7) ;
+}
+
+ .i.pcolor1{
+  color: #4B4B4B;
+}
+
+.andteam-black{
+  background-color: #4b4b4b !important;
+}
+
+.andteam-bc{
+  background-color: #3c3c3c !important;
+}
+
+.ab-text{
+  color: #444444 !important;
+}
+
+p.small {
+  line-height: 70%;
+}
+
+nav ul a,
+nav .brand-logo {
+  color: #444;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.button-collapse {
+  color: #26a69a;
+}
+
+.parallax-container {
+  min-height: 320px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+.parallax-container.min {
+  min-height: 200px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+}
