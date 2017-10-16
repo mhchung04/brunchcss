@@ -4468,39 +4468,32 @@ nav .input-field label.active i {
   font-family: 'Nanum Barun Gothic Light';
   font-style: normal;
   font-weight: 450;
-  src: url(https://cdn.rawgit.com/mhchung04/brunchcss/b4872e7e/fonts/nanum/NanumBarunGothicLight.eot);
-  src: local('Nanum Barun Gothic Light'),
-       local('NanumBarunGothicLight'),
-       url(https://cdn.rawgit.com/mhchung04/brunchcss/b4872e7e/fonts/nanum/NanumBarunGothicLight.eot?#iefix) format('embedded-opentype'),
-       url(https://cdn.rawgit.com/mhchung04/brunchcss/b4872e7e/fonts/nanum/NanumBarunGothicLight.woff2) format('woff2'),
-       url(https://cdn.rawgit.com/mhchung04/brunchcss/b4872e7e/fonts/nanum/NanumBarunGothicLight.woff) format('woff'),
-       url(https://cdn.rawgit.com/mhchung04/brunchcss/b4872e7e/fonts/nanum/NanumBarunGothicLight.ttf) format('truetype');
+  src: url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWebLight.eot');
+  src: url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWebLight.eot?#iefix') format('embedded-opentype'),
+       url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWebLight.woff') format('woff'),
+       url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWebLight.ttf') format('truetype');
+}
 }
 
 @font-face {
   font-family: 'Nanum Barun Gothic';
   font-style: normal;
   font-weight: 450;
-  src: url(https://cdn.rawgit.com/mhchung04/brunchcss/b4872e7e/fonts/nanum/NanumBarunGothic.eot);
-  src: local('Nanum Barun Gothic'),
-       local('NanumBarunGothic'),
-       url(https://cdn.rawgit.com/mhchung04/brunchcss/b4872e7e/fonts/nanum/NanumBarunGothic.eot?#iefix) format('embedded-opentype'),
-       url(https://cdn.rawgit.com/mhchung04/brunchcss/b4872e7e/fonts/nanum/NanumBarunGothic.woff2) format('woff2'),
-       url(https://cdn.rawgit.com/mhchung04/brunchcss/b4872e7e/fonts/nanum/NanumBarunGothic.woff) format('woff'),
-       url(https://cdn.rawgit.com/mhchung04/brunchcss/b4872e7e/fonts/nanum/NanumBarunGothic.ttf) format('truetype');
+  src: url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.eot');
+  src: url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.eot?#iefix') format('embedded-opentype'),
+       url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.woff') format('woff'),
+       url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Nanum Barun Gothic Bold';
   font-style: normal;
   font-weight: 450;
-  src: url(https://cdn.rawgit.com/mhchung04/brunchcss/b4872e7e/fonts/nanum/NanumBarunGothicBold.eot);
-  src: local('Nanum Barun Gothic Bold'),
-       local('NanumBarunGothicBold'),
-       url(https://cdn.rawgit.com/mhchung04/brunchcss/b4872e7e/fonts/nanum/NanumBarunGothicBold.eot?#iefix) format('embedded-opentype'),
-       url(https://cdn.rawgit.com/mhchung04/brunchcss/b4872e7e/fonts/nanum/NanumBarunGothicBold.woff2) format('woff2'),
-       url(https://cdn.rawgit.com/mhchung04/brunchcss/b4872e7e/fonts/nanum/NanumBarunGothicBold.woff) format('woff'),
-       url(https://cdn.rawgit.com/mhchung04/brunchcss/b4872e7e/fonts/nanum/NanumBarunGothicBold.ttf) format('truetype');
+  src: url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWebBold.eot');
+  src: url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWebBold.eot?#iefix') format('embedded-opentype'),
+       url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWebBold.woff') format('woff'),
+       url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWebBold.ttf') format('truetype')
+}
 }
 
 a {
