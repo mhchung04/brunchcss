@@ -4419,50 +4419,6 @@ nav .input-field label.active i {
     height: 64px;
   }
 }
-/*
-@font-face {
-  font-family: "Roboto";
-  src: local(Roboto Thin), url("../fonts/nanum/Roboto-Thin.woff2") format("woff2"), url("../fonts/roboto/Roboto-Thin.woff") format("woff");
-  font-weight: 100;
-}
-
-@font-face {
-  font-family: "Roboto";
-  src: local(Roboto Light), url("../fonts/nanum/Roboto-Light.woff2") format("woff2"), url("../fonts/roboto/Roboto-Light.woff") format("woff");
-  font-weight: 300;
-}
-
-@font-face {
-  font-family: "Roboto";
-  src: local(Roboto Regular), url("../fonts/nanum/Roboto-Regular.woff2") format("woff2"), url("../fonts/roboto/Roboto-Regular.woff") format("woff");
-  font-weight: 400;
-}
-
-@font-face {
-  font-family: "Roboto";
-  src: local(Roboto Medium), url("../fonts/nanum/Roboto-Medium.woff2") format("woff2"), url("../fonts/roboto/Roboto-Medium.woff") format("woff");
-  font-weight: 500;
-}
-
-@font-face {
-  font-family: "Roboto";
-  src: local(Roboto Bold), url("../fonts/nanum/Roboto-Bold.woff2") format("woff2"), url("../fonts/roboto/Roboto-Bold.woff") format("woff");
-  font-weight: 700;
-}
-*/
-
-@font-face {
-  font-family: 'Nanum Barun Gothic';
-  font-style: normal;
-  font-weight: 450;
-  src: url(https://cdn.rawgit.com/mhchung04/brunchcss/b4872e7e/fonts/nanum/NanumBarunGothicUltraLight.eot);
-  src: local('Nanum Barun Gothic UltraLight'),
-       local('NanumBarunGothicUltraLight'),
-       url(https://cdn.rawgit.com/mhchung04/brunchcss/b4872e7e/fonts/nanum/NanumBarunGothicUltraLight.eot?#iefix) format('embedded-opentype'),
-       url(https://cdn.rawgit.com/mhchung04/brunchcss/b4872e7e/fonts/nanum/NanumBarunGothicUltraLight.woff2) format('woff2'),
-       url(https://cdn.rawgit.com/mhchung04/brunchcss/b4872e7e/fonts/nanum/NanumBarunGothicBold.woff) format('woff'),
-       url(https://cdn.rawgit.com/mhchung04/brunchcss/b4872e7e/fonts/nanum/NanumBarunGothicUltraLight.ttf) format('truetype');
-}
 
 @font-face {
   font-family: 'Nanum Barun Gothic Light';
