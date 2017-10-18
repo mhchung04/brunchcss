@@ -4424,6 +4424,7 @@ nav .input-field label.active i {
   font-family: 'Nanum Barun Gothic Light';
   font-style: normal;
   font-weight: 450;
+  src: local("NanumBarunGothicLight");
   src: url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWebLight.eot');
   src: url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWebLight.eot?#iefix') format('embedded-opentype'),
        url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWebLight.woff') format('woff'),
@@ -4434,6 +4435,7 @@ nav .input-field label.active i {
   font-family: 'Nanum Barun Gothic';
   font-style: normal;
   font-weight: 450;
+  src: local("NanumBarunGothic");
   src: url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.eot');
   src: url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.eot?#iefix') format('embedded-opentype'),
        url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWeb.woff') format('woff'),
@@ -4444,6 +4446,7 @@ nav .input-field label.active i {
   font-family: 'Nanum Barun Gothic Bold';
   font-style: normal;
   font-weight: 450;
+  src: local("NanumBarunGothicBold");
   src: url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWebBold.eot');
   src: url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWebBold.eot?#iefix') format('embedded-opentype'),
        url('//cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWebBold.woff') format('woff'),
