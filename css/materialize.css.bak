@@ -3342,7 +3342,6 @@ nav ul a span.badge {
   margin-left: 4px;
   line-height: 22px;
   height: 22px;
-  -webkit-font-smoothing: auto;
 }
 
 .collection-item span.badge {
