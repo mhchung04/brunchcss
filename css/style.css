@@ -15,6 +15,9 @@
     background: rgba(185, 206, 150, 0.7) ;
 }
 
+.backdrop {
+    display: none !important;
+}
  .i.pcolor1{
   color: #4B4B4B;
 }
