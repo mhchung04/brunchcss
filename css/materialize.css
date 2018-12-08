@@ -4468,7 +4468,7 @@ a {
 
 html {
   line-height: 1.5;
-  font-family: "Nanum Barun Gothic Light", sans-serif;
+  font-family: "Nanum Barun Gothic", sans-serif;
   font-weight: normal;
   color: rgba(0, 0, 0, 0.87);
 }
@@ -4543,7 +4543,7 @@ em {
 }
 
 strong{
-  font-family: Nanum Barun Gothic; 
+  font-family: Nanum Barun Gothic Bold; 
   font-style: normal; 
   font-weight: normal;
 }
